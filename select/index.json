@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Streets",
+  "base_artist": "Doja Cat",
+  "createdAt": "2026-03-04T03:07:00.436255Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Streets of Bakersfield",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/01_Streets_of_Bakersfield_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Streets Of Bakersfield",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/02_Streets_Of_Bakersfield_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Streets Of Bakersfield",
+      "artist": "Dwight Yoakam with Buck Owens",
+      "has_synced": true,
+      "path": "select/03_Streets_Of_Bakersfield_Dwight_Yoakam_with_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Streets of Bakersfield (with Buck Owens) (2006 Remaster)",
+      "artist": "Dwight Yoakam with Buck Owens",
+      "has_synced": true,
+      "path": "select/04_Streets_of_Bakersfield_(with_Buck_Owens)_(2006_Remaster)_Dwight_Yoakam_with_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Streets of Baltimore",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/05_The_Streets_of_Baltimore_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All We Got Iz Us (Evil Streets)",
+      "artist": "Onyx",
+      "has_synced": true,
+      "path": "select/06_All_We_Got_Iz_Us_(Evil_Streets)_Onyx.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Out In The Streets",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/07_Out_In_The_Streets_Blondie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Souls from the Streets (1994)",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/08_Souls_from_the_Streets_(1994)_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Empty Streets",
+      "artist": "Late Night Alumni",
+      "has_synced": true,
+      "path": "select/09_Empty_Streets_Late_Night_Alumni.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Good (Feat. T-Streets)",
+      "artist": "Lil Wayne",
+      "has_synced": false,
+      "path": "select/10_I'm_Good_(Feat._T-Streets)_Lil_Wayne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Streets on Fire",
+      "artist": "Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/11_Streets_on_Fire_Lupe_Fiasco.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Streets On Fire",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/12_Streets_On_Fire_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Children Playing In The Streets",
+      "artist": "Ziggy Marley & The Melody Makers",
+      "has_synced": false,
+      "path": "select/13_Children_Playing_In_The_Streets_Ziggy_Marley_&_The_Melody_Makers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "On the Streets I Ran",
+      "artist": "Morrissey",
+      "has_synced": false,
+      "path": "select/14_On_the_Streets_I_Ran_Morrissey.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "On The Streets Where You Live",
+      "artist": "Mr Hudson & The Library",
+      "has_synced": false,
+      "path": "select/15_On_The_Streets_Where_You_Live_Mr_Hudson_&_The_Library.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Streets",
+      "artist": "Doja Cat",
+      "has_synced": false,
+      "path": "select/pl_01_Streets_Doja_Cat.txt"
+    }
+  ]
+}
